@@ -21,7 +21,7 @@
 | DISTRICT    | 地区:如河南省-郑州市-金水区|
 | DEVICETOKEN | 你抓包得到的devicetoken|
 | SCKEY       | sever酱key|
-- 4.DEVICETOKEN获取方法。
+- 4.DEVICETOKEN获取方法。[AndroidHttpCapture安卓抓包软件下载](http://static.hk.darkal.cn/har/demo.apk)
 [操作视频](https://mp.weixin.qq.com/s/9ww2373nxj3JyV4o1VAvAw)
 
 - 5.sever酱使用参见[官网](http://sc.ftqq.com/3.version)。
